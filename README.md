@@ -3,3 +3,9 @@
 This project developed a sophisticated chatbot that leverages the formidable capabilities of the Mistral 7B Large Language Model (LLM). 
 
 I achieved this by fine-tuning a Mistral 7B LLM using the renowned 'Alpaca: A Strong, Replicable Instruction-Following Model' dataset to make a user interactive chatbot and picked up a few new things along the way.
+
+
+## Inferences
+
+
+![API integration of huggingface spaces screenshot](https://raw.githubusercontent.com/RezuwanHassan262/Chatbot-using-Mistral-7B/main/images/m7b_inference.PNG)
